@@ -27,7 +27,13 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
+
+        createTest()
     }
+}
+
+fun createTest() {
+    // print test
 }
 
 @Composable
